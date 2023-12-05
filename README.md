@@ -52,4 +52,16 @@ In an effort to overcome the urgent problem of stunting in Indonesia, the preval
 - Google Cloud Platform (GCP): For hosting the application, deploying models, and managing data.
 - Figma: For design and prototyping tools used in user interface (UI) and user experience (UX) design.
 
+# File Environment
+
+The .env.example file is an example configuration file used in this project. It contains a list of environment variables that must be set in the actual .env file to run the project correctly. Please copy this file as a reference to set the appropriate environment variables.
+
+## Required Environment Variables
+
+1.
+2.
+3.
+4.
+5.
+
 # ERD
